@@ -1,0 +1,19 @@
+.form button {
+  background-color: #5bccee;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  padding: 10px 40px;
+  margin-top: 20px;
+}
+
+.form input {
+  border-radius: 20px;
+  border: 1px solid gray;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form label {
+  margin: 20px;
+}

@@ -1,0 +1,10 @@
+.oneBeer {
+  display: flex;
+  align-items: center;
+  margin-left: 500px;
+  text-align: start;
+}
+
+.image {
+  margin-right: 50px;
+}

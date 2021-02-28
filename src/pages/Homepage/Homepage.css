@@ -1,0 +1,22 @@
+.homepage img {
+  width: 900px;
+  margin-top: 40px;
+}
+
+.beerSection h3 {
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  padding-left: 90px;
+  font-size: 30px;
+  margin: 5px;
+}
+
+.beerSection a {
+  text-decoration: none;
+}
+
+.beerSection p {
+  margin: 10px 250px;
+  text-align: center;
+}
